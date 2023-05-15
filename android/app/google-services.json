@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135031502551",
+    "project_id": "healthcare-8f1be",
+    "storage_bucket": "healthcare-8f1be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135031502551:android:74dd0d790e767056ce6292",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135031502551-9k8n6klkp6k9f4h60apueuks89r0clcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthcare",
+            "certificate_hash": "a80c7ec58a63dedb97d46e6e927d66e2883b4f98"
+          }
+        },
+        {
+          "client_id": "135031502551-hdu7njia6setug51jc3l196gpvde2bnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwyYdGfkHUK1HRmy6FNxUN6ShmnYrniaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135031502551-hdu7njia6setug51jc3l196gpvde2bnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
